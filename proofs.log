@@ -1,0 +1,2450 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.4.25)  19 MAY 2019 05:05
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**proofs.tex
+(./proofs.tex
+LaTeX2e <2018-12-01>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) (/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count88
+\mult@box=\box27
+\multicol@leftmargin=\dimen103
+\c@unbalance=\count89
+\c@collectmore=\count90
+\doublecol@number=\count91
+\multicoltolerance=\count92
+\multicolpretolerance=\count93
+\full@width=\dimen104
+\page@free=\dimen105
+\premulticols=\dimen106
+\postmulticols=\dimen107
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box28
+\last@line=\box29
+\maxbalancingoverflow=\dimen108
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\c@columnbadness=\count94
+\c@finalcolumnbadness=\count95
+\last@try=\dimen109
+\multicolovershoot=\dimen110
+\multicolundershoot=\dimen111
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\mc@col@check@num=\count96
+) (/usr/share/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2019-01-16 v2.0c non-zero parskip adjustments
+ (/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+) (/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ (/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))) (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count97
+)) (/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+ (/usr/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen112
+\ar@mcellbox=\box53
+\extrarowheight=\dimen113
+\NC@list=\toks17
+\extratabsurround=\skip45
+\backup@length=\skip46
+\ar@cellbox=\box54
+)
+\TX@col@width=\dimen114
+\TX@old@table=\dimen115
+\TX@old@col=\dimen116
+\TX@target=\dimen117
+\TX@delta=\dimen118
+\TX@cols=\count98
+\TX@ftn=\toks18
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen119
+)) (/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen120
+) (/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count99
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count100
+\leftroot@=\count101
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count102
+\DOTSCASE@=\count103
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+\big@size=\dimen121
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count104
+\c@MaxMatrixCols=\count105
+\dotsspace@=\muskip10
+\c@parentequation=\count106
+\dspbrk@lvl=\count107
+\tag@help=\toks20
+\row@=\count108
+\column@=\count109
+\maxfields@=\count110
+\andhelp@=\toks21
+\eqnshift@=\dimen122
+\alignsep@=\dimen123
+\tagshift@=\dimen124
+\tagwidth@=\dimen125
+\totwidth@=\dimen126
+\lineht@=\dimen127
+\@envbody=\toks22
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+) (/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks24
+\thm@bodyfont=\toks25
+\thm@headfont=\toks26
+\thm@notefont=\toks27
+\thm@headpunct=\toks28
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks29
+) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+ (/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+) (/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count111
+\Gm@cntv=\count112
+\c@Gm@tempcnt=\count113
+\Gm@bindingoffset=\dimen128
+\Gm@wd@mp=\dimen129
+\Gm@odd@mp=\dimen130
+\Gm@even@mp=\dimen131
+\Gm@layoutwidth=\dimen132
+\Gm@layoutheight=\dimen133
+\Gm@layouthoffset=\dimen134
+\Gm@layoutvoffset=\dimen135
+\Gm@dimlist=\toks30
+) (/usr/share/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen136
+\lightrulewidth=\dimen137
+\cmidrulewidth=\dimen138
+\belowrulesep=\dimen139
+\belowbottomsep=\dimen140
+\aboverulesep=\dimen141
+\abovetopsep=\dimen142
+\cmidrulesep=\dimen143
+\cmidrulekern=\dimen144
+\defaultaddspace=\dimen145
+\@cmidla=\count114
+\@cmidlb=\count115
+\@aboverulesep=\dimen146
+\@belowrulesep=\dimen147
+\@thisruleclass=\count116
+\@lastruleclass=\count117
+\@thisrulewidth=\dimen148
+) (/usr/share/texmf-dist/tex/latex/oberdiek/centernot.sty
+Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
+) (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+ (/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+ (/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+) (/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen149
+\Hy@linkcounter=\count118
+\Hy@pagecounter=\count119
+ (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count120
+ (/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count121
+ (/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen150
+\Fld@menulength=\count122
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count123
+\c@Item=\count124
+\c@Hfootnote=\count125
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count126
+\c@bookmark@seq@number=\count127
+ (/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)
+\Hy@SectionHShift=\skip53
+) (/usr/share/texmf-dist/tex/latex/amsfonts/eufrak.sty
+
+Package eufrak Warning: The eufrak package is redundant if the amsfonts package is used on input line 36.
+
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+
+LaTeX Warning: Unused global option(s):
+    [3pt].
+
+(./proofs.aux)
+\openout1 = `proofs.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(8.53581pt, 827.97522pt, 8.53581pt)
+* v-part:(T,H,B)=(8.53581pt, 580.43625pt, 8.53581pt)
+* \paperwidth=845.04684pt
+* \paperheight=597.50787pt
+* \textwidth=827.97522pt
+* \textheight=580.43625pt
+* \oddsidemargin=-63.73418pt
+* \evensidemargin=-63.73418pt
+* \topmargin=-100.73418pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=144.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box57
+Package hyperref Info: Link coloring OFF on input line 21.
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+ (/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count128
+)
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
+ (./proofs.out) (./proofs.out)
+\@outlinefile=\write3
+\openout3 = `proofs.out'.
+
+ (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count129
+\scratchdimen=\dimen155
+\scratchbox=\box58
+\nofMPsegments=\count130
+\nofMParguments=\count131
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count132
+\MPscratchDim=\dimen156
+\MPnumerator=\count133
+\makeMPintoPDFobject=\count134
+\everyMPtoPDFconversion=\toks32
+) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+<pics/07_02.png, id=4, 638.385pt x 67.25125pt>
+
+./proofs.tex:26: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.26     \includegraphics[width=250]{07_02.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:26: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.26     \includegraphics[width=250]{07_02.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_02.png Graphic file (type png)
+<use pics/07_02.png>
+Package pdftex.def Info: pics/07_02.png  used on input line 26.
+(pdftex.def)             Requested size: 250.0pt x 26.33664pt.
+<pics/07_03a.png, id=5, 571.13374pt x 109.40875pt>
+./proofs.tex:28: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.28     \includegraphics[width=250]{07_03a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:28: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.28     \includegraphics[width=250]{07_03a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_03a.png Graphic file (type png)
+<use pics/07_03a.png>
+Package pdftex.def Info: pics/07_03a.png  used on input line 28.
+(pdftex.def)             Requested size: 250.0pt x 47.89124pt.
+<pics/07_03b.png, id=6, 651.43375pt x 73.27374pt>
+./proofs.tex:30: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.30     \includegraphics[width=250]{07_03b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:30: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.30     \includegraphics[width=250]{07_03b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_03b.png Graphic file (type png)
+<use pics/07_03b.png>
+Package pdftex.def Info: pics/07_03b.png  used on input line 30.
+(pdftex.def)             Requested size: 250.0pt x 28.12045pt.
+<pics/07_04.png, id=7, 628.3475pt x 272.01625pt>
+./proofs.tex:32: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.32     \includegraphics[width=250]{07_04.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:32: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.32     \includegraphics[width=250]{07_04.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_04.png Graphic file (type png)
+<use pics/07_04.png>
+Package pdftex.def Info: pics/07_04.png  used on input line 32.
+(pdftex.def)             Requested size: 250.0pt x 108.22348pt.
+<pics/07_05.png, id=8, 628.3475pt x 69.25874pt>
+./proofs.tex:34: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.34     \includegraphics[width=250]{07_05.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:34: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.34     \includegraphics[width=250]{07_05.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_05.png Graphic file (type png)
+<use pics/07_05.png>
+Package pdftex.def Info: pics/07_05.png  used on input line 34.
+(pdftex.def)             Requested size: 250.0pt x 27.55504pt.
+<pics/07_06a.png, id=9, 631.35875pt x 175.65625pt>
+./proofs.tex:36: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.36     \includegraphics[width=250]{07_06a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:36: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.36     \includegraphics[width=250]{07_06a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_06a.png Graphic file (type png)
+<use pics/07_06a.png>
+Package pdftex.def Info: pics/07_06a.png  used on input line 36.
+(pdftex.def)             Requested size: 250.0pt x 69.55365pt.
+<pics/07_06b.png, id=10, 633.36626pt x 472.76625pt>
+./proofs.tex:37: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.37     \includegraphics[width=250]{07_06b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:37: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.37     \includegraphics[width=250]{07_06b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_06b.png Graphic file (type png)
+<use pics/07_06b.png>
+Package pdftex.def Info: pics/07_06b.png  used on input line 37.
+(pdftex.def)             Requested size: 250.0pt x 186.60716pt.
+<pics/07_09a.png, id=11, 572.1375pt x 89.33376pt>
+./proofs.tex:39: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.39     \includegraphics[width=250]{07_09a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:39: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.39     \includegraphics[width=250]{07_09a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_09a.png Graphic file (type png)
+<use pics/07_09a.png>
+Package pdftex.def Info: pics/07_09a.png  used on input line 39.
+(pdftex.def)             Requested size: 250.0pt x 39.0357pt.
+<pics/07_09b.png, id=12, 640.3925pt x 700.6175pt>
+./proofs.tex:40: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.40     \includegraphics[width=250]{07_09b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:40: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.40     \includegraphics[width=250]{07_09b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_09b.png Graphic file (type png)
+<use pics/07_09b.png>
+Package pdftex.def Info: pics/07_09b.png  used on input line 40.
+(pdftex.def)             Requested size: 250.0pt x 273.50699pt.
+<pics/07_10.png, id=13, 634.37pt x 589.20125pt>
+./proofs.tex:42: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.42     \includegraphics[width=250]{07_10.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:42: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.42     \includegraphics[width=250]{07_10.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_10.png Graphic file (type png)
+<use pics/07_10.png>
+Package pdftex.def Info: pics/07_10.png  used on input line 42.
+(pdftex.def)             Requested size: 250.0pt x 232.197pt.
+<pics/07_11a.png, id=14, 636.3775pt x 175.65625pt>
+./proofs.tex:44: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.44     \includegraphics[width=250]{07_11a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:44: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.44     \includegraphics[width=250]{07_11a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_11a.png Graphic file (type png)
+<use pics/07_11a.png>
+Package pdftex.def Info: pics/07_11a.png  used on input line 44.
+(pdftex.def)             Requested size: 250.0pt x 69.00418pt.
+<pics/07_11b.png, id=15, 629.35126pt x 186.6975pt>
+./proofs.tex:45: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.45     \includegraphics[width=250]{07_11b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:45: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.45     \includegraphics[width=250]{07_11b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_11b.png Graphic file (type png)
+<use pics/07_11b.png>
+Package pdftex.def Info: pics/07_11b.png  used on input line 45.
+(pdftex.def)             Requested size: 250.0pt x 74.16203pt.
+<pics/07_12a.png, id=16, 642.4pt x 543.02875pt>
+./proofs.tex:47: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.47     \includegraphics[width=250]{07_12a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:47: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.47     \includegraphics[width=250]{07_12a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_12a.png Graphic file (type png)
+<use pics/07_12a.png>
+Package pdftex.def Info: pics/07_12a.png  used on input line 47.
+(pdftex.def)             Requested size: 250.0pt x 211.32462pt.
+<pics/07_12b.png, id=17, 635.37375pt x 507.8975pt>
+./proofs.tex:48: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.48     \includegraphics[width=250]{07_12b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:48: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.48     \includegraphics[width=250]{07_12b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_12b.png Graphic file (type png)
+<use pics/07_12b.png>
+Package pdftex.def Info: pics/07_12b.png  used on input line 48.
+(pdftex.def)             Requested size: 250.0pt x 199.83846pt.
+<pics/07_15.png, id=18, 634.37pt x 204.765pt>
+./proofs.tex:50: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.50     \includegraphics[width=250]{07_15.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:50: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.50     \includegraphics[width=250]{07_15.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/07_15.png Graphic file (type png)
+<use pics/07_15.png>
+Package pdftex.def Info: pics/07_15.png  used on input line 50.
+(pdftex.def)             Requested size: 250.0pt x 80.69537pt.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pics/07_02.png> <./pics/07_03a.png> <./pics/07_03b.png> <./pics/07_04.png> <./pics/07_05.png> <./pics/07_06a.png> <./pics/07_06b.png> <./pics/07_09a.png> <./pics/07_09b.png> <./pics/07_10.png> <./pics/07_11a.png> <./pics/07_11b.png> <./pics/07_12a.png> <./pics/07_12b.png>]
+<pics/10_09.png, id=25, 631.35875pt x 217.81375pt>
+
+./proofs.tex:52: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.52     \includegraphics[width=250]{10_09.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:52: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.52     \includegraphics[width=250]{10_09.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_09.png Graphic file (type png)
+<use pics/10_09.png>
+Package pdftex.def Info: pics/10_09.png  used on input line 52.
+(pdftex.def)             Requested size: 250.0pt x 86.24652pt.
+<pics/10_10.png, id=26, 636.3775pt x 91.34125pt>
+./proofs.tex:54: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.54     \includegraphics[width=250]{10_10.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:54: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.54     \includegraphics[width=250]{10_10.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_10.png Graphic file (type png)
+<use pics/10_10.png>
+Package pdftex.def Info: pics/10_10.png  used on input line 54.
+(pdftex.def)             Requested size: 250.0pt x 35.88217pt.
+<pics/10_11.png, id=27, 633.36626pt x 115.43124pt>
+./proofs.tex:56: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.56     \includegraphics[width=250]{10_11.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:56: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.56     \includegraphics[width=250]{10_11.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_11.png Graphic file (type png)
+<use pics/10_11.png>
+Package pdftex.def Info: pics/10_11.png  used on input line 56.
+(pdftex.def)             Requested size: 250.0pt x 45.56224pt.
+<pics/10_15.png, id=28, 634.37pt x 155.58125pt>
+./proofs.tex:58: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.58     \includegraphics[width=250]{10_15.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:58: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.58     \includegraphics[width=250]{10_15.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_15.png Graphic file (type png)
+<use pics/10_15.png>
+Package pdftex.def Info: pics/10_15.png  used on input line 58.
+(pdftex.def)             Requested size: 250.0pt x 61.31265pt.
+<pics/10_16.png, id=29, 642.4pt x 260.975pt>
+./proofs.tex:60: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.60     \includegraphics[width=250]{10_16.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:60: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.60     \includegraphics[width=250]{10_16.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_16.png Graphic file (type png)
+<use pics/10_16.png>
+Package pdftex.def Info: pics/10_16.png  used on input line 60.
+(pdftex.def)             Requested size: 250.0pt x 101.56082pt.
+<pics/10_17.png, id=30, 631.35875pt x 135.50626pt>
+./proofs.tex:62: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.62     \includegraphics[width=250]{10_17.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:62: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.62     \includegraphics[width=250]{10_17.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_17.png Graphic file (type png)
+<use pics/10_17.png>
+Package pdftex.def Info: pics/10_17.png  used on input line 62.
+(pdftex.def)             Requested size: 250.0pt x 53.65567pt.
+<pics/10_18.png, id=31, 640.3925pt x 77.28876pt>
+./proofs.tex:64: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.64     \includegraphics[width=250]{10_18.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:64: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.64     \includegraphics[width=250]{10_18.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_18.png Graphic file (type png)
+<use pics/10_18.png>
+Package pdftex.def Info: pics/10_18.png  used on input line 64.
+(pdftex.def)             Requested size: 250.0pt x 30.17197pt.
+<pics/10_21.png, id=32, 636.3775pt x 171.64125pt>
+./proofs.tex:66: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.66     \includegraphics[width=250]{10_21.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:66: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.66     \includegraphics[width=250]{10_21.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_21.png Graphic file (type png)
+<use pics/10_21.png>
+Package pdftex.def Info: pics/10_21.png  used on input line 66.
+(pdftex.def)             Requested size: 250.0pt x 67.42694pt.
+<pics/10_31a.png, id=33, 634.37pt x 291.0875pt>
+./proofs.tex:68: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.68     \includegraphics[width=250]{10_31a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:68: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.68     \includegraphics[width=250]{10_31a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_31a.png Graphic file (type png)
+<use pics/10_31a.png>
+Package pdftex.def Info: pics/10_31a.png  used on input line 68.
+(pdftex.def)             Requested size: 250.0pt x 114.71402pt.
+<pics/10_31b.png, id=34, 632.3625pt x 191.71625pt>
+./proofs.tex:69: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.69     \includegraphics[width=250]{10_31b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:69: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.69     \includegraphics[width=250]{10_31b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_31b.png Graphic file (type png)
+<use pics/10_31b.png>
+Package pdftex.def Info: pics/10_31b.png  used on input line 69.
+(pdftex.def)             Requested size: 250.0pt x 75.79291pt.
+<pics/10_32.png, id=35, 629.35126pt x 233.87375pt>
+./proofs.tex:71: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.71     \includegraphics[width=250]{10_32.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:71: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.71     \includegraphics[width=250]{10_32.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_32.png Graphic file (type png)
+<use pics/10_32.png>
+Package pdftex.def Info: pics/10_32.png  used on input line 71.
+(pdftex.def)             Requested size: 250.0pt x 92.9019pt.
+<pics/10_34.png, id=36, 627.34375pt x 109.40875pt>
+./proofs.tex:73: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.73     \includegraphics[width=250]{10_34.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:73: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.73     \includegraphics[width=250]{10_34.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_34.png Graphic file (type png)
+<use pics/10_34.png>
+Package pdftex.def Info: pics/10_34.png  used on input line 73.
+(pdftex.def)             Requested size: 250.0pt x 43.60077pt.
+<pics/10_39a.png, id=37, 636.3775pt x 208.78pt>
+./proofs.tex:75: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.75     \includegraphics[width=250]{10_39a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:75: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.75     \includegraphics[width=250]{10_39a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_39a.png Graphic file (type png)
+<use pics/10_39a.png>
+Package pdftex.def Info: pics/10_39a.png  used on input line 75.
+(pdftex.def)             Requested size: 250.0pt x 82.0164pt.
+<pics/10_39b.png, id=38, 631.35875pt x 68.255pt>
+./proofs.tex:76: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.76     \includegraphics[width=250]{10_39b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:76: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.76     \includegraphics[width=250]{10_39b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_39b.png Graphic file (type png)
+<use pics/10_39b.png>
+Package pdftex.def Info: pics/10_39b.png  used on input line 76.
+(pdftex.def)             Requested size: 250.0pt x 27.02655pt.
+<pics/10_40.png, id=39, 636.3775pt x 517.935pt>
+./proofs.tex:78: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.78     \includegraphics[width=250]{10_40.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:78: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.78     \includegraphics[width=250]{10_40.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_40.png Graphic file (type png)
+<use pics/10_40.png>
+Package pdftex.def Info: pics/10_40.png  used on input line 78.
+(pdftex.def)             Requested size: 250.0pt x 203.46379pt.
+<pics/10_43.png, id=40, 631.35875pt x 75.28125pt>
+./proofs.tex:80: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.80     \includegraphics[width=250]{10_43.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:80: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.80     \includegraphics[width=250]{10_43.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_43.png Graphic file (type png)
+<use pics/10_43.png>
+Package pdftex.def Info: pics/10_43.png  used on input line 80.
+(pdftex.def)             Requested size: 250.0pt x 29.8087pt.
+<pics/10_44.png, id=41, 627.34375pt x 354.32375pt>
+./proofs.tex:82: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.82     \includegraphics[width=250]{10_44.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:82: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.82     \includegraphics[width=250]{10_44.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_44.png Graphic file (type png)
+<use pics/10_44.png>
+Package pdftex.def Info: pics/10_44.png  used on input line 82.
+(pdftex.def)             Requested size: 250.0pt x 141.20255pt.
+<pics/10_45.png, id=42, 631.35875pt x 204.765pt>
+./proofs.tex:84: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.84     \includegraphics[width=250]{10_45.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:84: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.84     \includegraphics[width=250]{10_45.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_45.png Graphic file (type png)
+<use pics/10_45.png>
+Package pdftex.def Info: pics/10_45.png  used on input line 84.
+(pdftex.def)             Requested size: 250.0pt x 81.07968pt.
+<pics/10_46.png, id=43, 629.35126pt x 214.8025pt>
+./proofs.tex:86: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.86     \includegraphics[width=250]{10_46.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:86: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.86     \includegraphics[width=250]{10_46.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_46.png Graphic file (type png)
+<use pics/10_46.png>
+Package pdftex.def Info: pics/10_46.png  used on input line 86.
+(pdftex.def)             Requested size: 250.0pt x 85.32622pt.
+<pics/10_47.png, id=44, 625.33624pt x 129.48375pt>
+./proofs.tex:88: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.88     \includegraphics[width=250]{10_47.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:88: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.88     \includegraphics[width=250]{10_47.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_47.png Graphic file (type png)
+<use pics/10_47.png>
+Package pdftex.def Info: pics/10_47.png  used on input line 88.
+(pdftex.def)             Requested size: 250.0pt x 51.76491pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.88     \includegraphics[width=250]{10_47.png} \\
+                                                   [2 <./pics/07_15.png> <./pics/10_09.png> <./pics/10_10.png> <./pics/10_11.png> <./pics/10_15.png> <./pics/10_16.png> <./pics/10_17.png> <./pics/10_18.png> <./pics/10_21.png> <./pics/10_31a.png> <./pics/10_31b.png> <./pics/10_32.png> <./pics/10_34.png> <./pics/10_39a.png> <./pics/10_39b.png> <./pics/10_40.png> <./pics/10_43.png> <./pics/10_44.png> <./pics/10_45.png>]
+<pics/10_49.png, id=48, 638.385pt x 627.34375pt>
+
+./proofs.tex:90: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.90     \includegraphics[width=250]{10_49.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:90: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.90     \includegraphics[width=250]{10_49.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_49.png Graphic file (type png)
+<use pics/10_49.png>
+Package pdftex.def Info: pics/10_49.png  used on input line 90.
+(pdftex.def)             Requested size: 250.0pt x 245.67775pt.
+<pics/10_50a.png, id=49, 630.355pt x 157.58875pt>
+./proofs.tex:92: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.92     \includegraphics[width=250]{10_50a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:92: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.92     \includegraphics[width=250]{10_50a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_50a.png Graphic file (type png)
+<use pics/10_50a.png>
+Package pdftex.def Info: pics/10_50a.png  used on input line 92.
+(pdftex.def)             Requested size: 250.0pt x 62.50055pt.
+<pics/10_50b.png, id=50, 631.35875pt x 282.05376pt>
+./proofs.tex:93: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.93     \includegraphics[width=250]{10_50b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:93: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.93     \includegraphics[width=250]{10_50b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_50b.png Graphic file (type png)
+<use pics/10_50b.png>
+Package pdftex.def Info: pics/10_50b.png  used on input line 93.
+(pdftex.def)             Requested size: 250.0pt x 111.68329pt.
+<pics/10_52a.png, id=51, 629.35126pt x 160.6pt>
+./proofs.tex:95: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.95     \includegraphics[width=250]{10_52a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:95: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.95     \includegraphics[width=250]{10_52a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_52a.png Graphic file (type png)
+<use pics/10_52a.png>
+Package pdftex.def Info: pics/10_52a.png  used on input line 95.
+(pdftex.def)             Requested size: 250.0pt x 63.7953pt.
+<pics/10_52b.png, id=52, 631.35875pt x 477.785pt>
+./proofs.tex:96: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.96     \includegraphics[width=250]{10_52b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:96: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.96     \includegraphics[width=250]{10_52b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_52b.png Graphic file (type png)
+<use pics/10_52b.png>
+Package pdftex.def Info: pics/10_52b.png  used on input line 96.
+(pdftex.def)             Requested size: 250.0pt x 189.18594pt.
+<pics/10_55.png, id=53, 629.35126pt x 129.48375pt>
+./proofs.tex:98: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.98     \includegraphics[width=250]{10_55.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:98: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.98     \includegraphics[width=250]{10_55.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_55.png Graphic file (type png)
+<use pics/10_55.png>
+Package pdftex.def Info: pics/10_55.png  used on input line 98.
+(pdftex.def)             Requested size: 250.0pt x 51.43495pt.
+<pics/10_56a.png, id=54, 633.36626pt x 476.78125pt>
+./proofs.tex:100: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.100     \includegraphics[width=250]{10_56a.png}
+                                                  \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:100: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.100     \includegraphics[width=250]{10_56a.png}
+                                                  \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_56a.png Graphic file (type png)
+<use pics/10_56a.png>
+Package pdftex.def Info: pics/10_56a.png  used on input line 100.
+(pdftex.def)             Requested size: 250.0pt x 188.19193pt.
+<pics/10_56b.png, id=55, 625.33624pt x 133.49875pt>
+./proofs.tex:101: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.101     \includegraphics[width=250]{10_56b.png}
+                                                  \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:101: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.101     \includegraphics[width=250]{10_56b.png}
+                                                  \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_56b.png Graphic file (type png)
+<use pics/10_56b.png>
+Package pdftex.def Info: pics/10_56b.png  used on input line 101.
+(pdftex.def)             Requested size: 250.0pt x 53.37003pt.
+<pics/10_58.png, id=56, 636.3775pt x 307.1475pt>
+./proofs.tex:103: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.103     \includegraphics[width=250]{10_58.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:103: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.103     \includegraphics[width=250]{10_58.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_58.png Graphic file (type png)
+<use pics/10_58.png>
+Package pdftex.def Info: pics/10_58.png  used on input line 103.
+(pdftex.def)             Requested size: 250.0pt x 120.65875pt.
+<pics/10_61.png, id=57, 627.34375pt x 431.6125pt>
+./proofs.tex:105: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.105     \includegraphics[width=250]{10_61.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:105: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.105     \includegraphics[width=250]{10_61.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_61.png Graphic file (type png)
+<use pics/10_61.png>
+Package pdftex.def Info: pics/10_61.png  used on input line 105.
+(pdftex.def)             Requested size: 250.0pt x 172.0031pt.
+<pics/10_62.png, id=58, 632.3625pt x 218.8175pt>
+./proofs.tex:107: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.107     \includegraphics[width=250]{10_62.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:107: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.107     \includegraphics[width=250]{10_62.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_62.png Graphic file (type png)
+<use pics/10_62.png>
+Package pdftex.def Info: pics/10_62.png  used on input line 107.
+(pdftex.def)             Requested size: 250.0pt x 86.50708pt.
+<pics/10_63.png, id=59, 632.3625pt x 137.51375pt>
+./proofs.tex:109: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.109     \includegraphics[width=250]{10_63.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:109: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.109     \includegraphics[width=250]{10_63.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_63.png Graphic file (type png)
+<use pics/10_63.png>
+Package pdftex.def Info: pics/10_63.png  used on input line 109.
+(pdftex.def)             Requested size: 250.0pt x 54.36455pt.
+<pics/10_64.png, id=60, 631.35875pt x 153.57375pt>
+./proofs.tex:111: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.111     \includegraphics[width=250]{10_64.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:111: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.111     \includegraphics[width=250]{10_64.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/10_64.png Graphic file (type png)
+<use pics/10_64.png>
+Package pdftex.def Info: pics/10_64.png  used on input line 111.
+(pdftex.def)             Requested size: 250.0pt x 60.80975pt.
+
+Overfull \vbox (16.51646pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (4.5419pt too high) has occurred while \output is active []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.112 \end{multicols}
+                      [3 <./pics/10_46.png> <./pics/10_47.png> <./pics/10_49.png> <./pics/10_50a.png> <./pics/10_50b.png> <./pics/10_52a.png> <./pics/10_52b.png> <./pics/10_55.png> <./pics/10_56a.png> <./pics/10_56b.png> <./pics/10_58.png> <./pics/10_61.png>]
+<pics/R_p1.png, id=64, 876.27374pt x 112.42pt>
+
+./proofs.tex:116: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.116     \includegraphics[width=400]{R_p1.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:116: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.116     \includegraphics[width=400]{R_p1.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/R_p1.png Graphic file (type png)
+<use pics/R_p1.png>
+Package pdftex.def Info: pics/R_p1.png  used on input line 116.
+(pdftex.def)             Requested size: 400.0pt x 51.31757pt.
+<pics/R_t1a.png, id=65, 890.32625pt x 353.32pt>
+./proofs.tex:118: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.118     \includegraphics[width=400]{R_t1a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:118: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.118     \includegraphics[width=400]{R_t1a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/R_t1a.png Graphic file (type png)
+<use pics/R_t1a.png>
+Package pdftex.def Info: pics/R_t1a.png  used on input line 118.
+(pdftex.def)             Requested size: 400.0pt x 158.73914pt.
+<pics/R_t1b.png, id=66, 874.26625pt x 79.29625pt>
+./proofs.tex:119: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.119     \includegraphics[width=400]{R_t1b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:119: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.119     \includegraphics[width=400]{R_t1b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/R_t1b.png Graphic file (type png)
+<use pics/R_t1b.png>
+Package pdftex.def Info: pics/R_t1b.png  used on input line 119.
+(pdftex.def)             Requested size: 400.0pt x 36.28069pt.
+<pics/R_t2.png, id=67, 874.26625pt x 202.7575pt>
+./proofs.tex:121: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.121     \includegraphics[width=400]{R_t2.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:121: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.121     \includegraphics[width=400]{R_t2.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/R_t2.png Graphic file (type png)
+<use pics/R_t2.png>
+Package pdftex.def Info: pics/R_t2.png  used on input line 121.
+(pdftex.def)             Requested size: 400.0pt x 92.76837pt.
+<pics/R_l1a.png, id=68, 881.2925pt x 357.335pt>
+./proofs.tex:123: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.123     \includegraphics[width=400]{R_l1a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:123: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.123     \includegraphics[width=400]{R_l1a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/R_l1a.png Graphic file (type png)
+<use pics/R_l1a.png>
+Package pdftex.def Info: pics/R_l1a.png  used on input line 123.
+(pdftex.def)             Requested size: 400.0pt x 162.18419pt.
+<pics/R_l1b.png, id=69, 881.2925pt x 274.02374pt>
+./proofs.tex:124: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.124     \includegraphics[width=400]{R_l1b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:124: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.124     \includegraphics[width=400]{R_l1b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/R_l1b.png Graphic file (type png)
+<use pics/R_l1b.png>
+Package pdftex.def Info: pics/R_l1b.png  used on input line 124.
+(pdftex.def)             Requested size: 400.0pt x 124.37158pt.
+<pics/R_t3.png, id=70, 882.29625pt x 836.12375pt>
+./proofs.tex:126: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.126     \includegraphics[width=400]{R_t3.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:126: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.126     \includegraphics[width=400]{R_t3.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/R_t3.png Graphic file (type png)
+<use pics/R_t3.png>
+Package pdftex.def Info: pics/R_t3.png  used on input line 126.
+(pdftex.def)             Requested size: 400.0pt x 379.07178pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.127     R
+           iemann Theorem 4 [4 <./pics/10_62.png> <./pics/10_63.png> <./pics/10_64.png> <./pics/R_p1.png> <./pics/R_t1a.png> <./pics/R_t1b.png> <./pics/R_t2.png> <./pics/R_l1a.png> <./pics/R_l1b.png>]
+<pics/R_t4.png, id=74, 874.26625pt x 225.84375pt>
+
+./proofs.tex:128: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.128     \includegraphics[width=400]{R_t4.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:128: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.128     \includegraphics[width=400]{R_t4.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/R_t4.png Graphic file (type png)
+<use pics/R_t4.png>
+Package pdftex.def Info: pics/R_t4.png  used on input line 128.
+(pdftex.def)             Requested size: 400.0pt x 103.3311pt.
+<pics/R_t5.png, id=75, 878.28125pt x 389.455pt>
+./proofs.tex:130: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.130     \includegraphics[width=400]{R_t5.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:130: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.130     \includegraphics[width=400]{R_t5.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/R_t5.png Graphic file (type png)
+<use pics/R_t5.png>
+Package pdftex.def Info: pics/R_t5.png  used on input line 130.
+(pdftex.def)             Requested size: 400.0pt x 177.37463pt.
+<pics/R_t6.png, id=76, 871.255pt x 97.36375pt>
+./proofs.tex:132: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.132     \includegraphics[width=400]{R_t6.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:132: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.132     \includegraphics[width=400]{R_t6.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/R_t6.png Graphic file (type png)
+<use pics/R_t6.png>
+Package pdftex.def Info: pics/R_t6.png  used on input line 132.
+(pdftex.def)             Requested size: 400.0pt x 44.7002pt.
+<pics/R_t7a.png, id=77, 878.28125pt x 364.36125pt>
+./proofs.tex:134: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.134     \includegraphics[width=400]{R_t7a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:134: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.134     \includegraphics[width=400]{R_t7a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/R_t7a.png Graphic file (type png)
+<use pics/R_t7a.png>
+Package pdftex.def Info: pics/R_t7a.png  used on input line 134.
+(pdftex.def)             Requested size: 400.0pt x 165.94585pt.
+<pics/R_t7b.png, id=78, 878.28125pt x 290.08376pt>
+./proofs.tex:135: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.135     \includegraphics[width=400]{R_t7b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:135: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.135     \includegraphics[width=400]{R_t7b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/R_t7b.png Graphic file (type png)
+<use pics/R_t7b.png>
+Package pdftex.def Info: pics/R_t7b.png  used on input line 135.
+(pdftex.def)             Requested size: 400.0pt x 132.11667pt.
+<pics/P_t1.png, id=79, 930.47626pt x 349.305pt>
+./proofs.tex:138: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.138     \includegraphics[width=400]{P_t1.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:138: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.138     \includegraphics[width=400]{P_t1.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/P_t1.png Graphic file (type png)
+<use pics/P_t1.png>
+Package pdftex.def Info: pics/P_t1.png  used on input line 138.
+(pdftex.def)             Requested size: 400.0pt x 150.1609pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.139     P
+           ower Theorem 2 [5 <./pics/R_t3.png> <./pics/R_t4.png> <./pics/R_t5.png> <./pics/R_t6.png> <./pics/R_t7a.png> <./pics/R_t7b.png>]
+<pics/P_t2a.png, id=83, 925.4575pt x 134.5025pt>
+
+./proofs.tex:140: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.140     \includegraphics[width=400]{P_t2a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:140: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.140     \includegraphics[width=400]{P_t2a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/P_t2a.png Graphic file (type png)
+<use pics/P_t2a.png>
+Package pdftex.def Info: pics/P_t2a.png  used on input line 140.
+(pdftex.def)             Requested size: 400.0pt x 58.13457pt.
+<pics/P_t2b.png, id=84, 927.465pt x 110.4125pt>
+./proofs.tex:141: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.141     \includegraphics[width=400]{P_t2b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:141: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.141     \includegraphics[width=400]{P_t2b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/P_t2b.png Graphic file (type png)
+<use pics/P_t2b.png>
+Package pdftex.def Info: pics/P_t2b.png  used on input line 141.
+(pdftex.def)             Requested size: 400.0pt x 47.61964pt.
+<pics/P_l1.png, id=85, 932.48375pt x 225.84375pt>
+./proofs.tex:143: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.143     \includegraphics[width=400]{P_l1.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:143: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.143     \includegraphics[width=400]{P_l1.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/P_l1.png Graphic file (type png)
+<use pics/P_l1.png>
+Package pdftex.def Info: pics/P_l1.png  used on input line 143.
+(pdftex.def)             Requested size: 400.0pt x 96.87657pt.
+<pics/P_t3.png, id=86, 928.46875pt x 160.6pt>
+./proofs.tex:145: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.145     \includegraphics[width=400]{P_t3.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:145: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.145     \includegraphics[width=400]{P_t3.png}
+                                                \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/P_t3.png Graphic file (type png)
+<use pics/P_t3.png>
+Package pdftex.def Info: pics/P_t3.png  used on input line 145.
+(pdftex.def)             Requested size: 400.0pt x 69.18896pt.
+<pics/B_t1a.png, id=87, 931.48pt x 391.4625pt>
+./proofs.tex:149: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.149     \includegraphics[width=400]{B_t1a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:149: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.149     \includegraphics[width=400]{B_t1a.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/B_t1a.png Graphic file (type png)
+<use pics/B_t1a.png>
+Package pdftex.def Info: pics/B_t1a.png  used on input line 149.
+(pdftex.def)             Requested size: 400.0pt x 168.10457pt.
+<pics/B_t1b.png, id=88, 923.45pt x 52.195pt>
+./proofs.tex:150: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.150     \includegraphics[width=400]{B_t1b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./proofs.tex:150: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.150     \includegraphics[width=400]{B_t1b.png}
+                                                 \\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+File: pics/B_t1b.png Graphic file (type png)
+<use pics/B_t1b.png>
+Package pdftex.def Info: pics/B_t1b.png  used on input line 150.
+(pdftex.def)             Requested size: 400.0pt x 22.60826pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.156 \end{document}
+                     [6 <./pics/P_t1.png> <./pics/P_t2a.png> <./pics/P_t2b.png> <./pics/P_l1.png> <./pics/P_t3.png> <./pics/B_t1a.png> <./pics/B_t1b.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
+ (./proofs.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
+Package rerunfilecheck Info: File `proofs.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 7308 strings out of 492616
+ 104616 string characters out of 6135177
+ 207896 words of memory out of 5000000
+ 11071 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 37i,5n,27p,814b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on proofs.pdf (6 pages, 2614912 bytes).
+PDF statistics:
+ 99 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
+ 2 named destinations out of 1000 (max. 500000)
+ 336 words of extra memory for PDF output out of 10000 (max. 10000000)
+
